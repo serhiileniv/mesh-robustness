@@ -11,3 +11,4 @@ __pycache__/
 *.bbl
 *.blg
 *.synctex.gz
+private/
